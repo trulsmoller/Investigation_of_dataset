@@ -5,7 +5,7 @@
 Investigation of dataset No-Show Appointments
 
 ### Description
-This is the second project in Udacity's Data Analyst nanodegree program.
+This is the second project in Udacity's Data Analyst nanodegree program. The focus is more on the exploration of the data and less on the conclusions.
 
 The dataset contains information collected from some 110,000 medical appointments in Brazil. Around 20 percent of patients do not show up for their appointment (marked as No-show in the dataset). The aim is to know why this happens so frequently.
 
